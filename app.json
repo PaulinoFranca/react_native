@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "My Store",
+	"slug": "my-store",
+	"privacy": "public",
+    "sdkVersion": "27.0.0",
+	"ios": {
+		"bundleIdentifier": "br.com.unichrisus.mystore",
+		"buildNumber": "0.0.1"
+	},
+	"android": {
+		"package": "br.com.unichrisus.mystore",
+		"versionCode": 1
+	}
+  }  
+}

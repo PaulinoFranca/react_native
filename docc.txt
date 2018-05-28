@@ -1,0 +1,22 @@
+instale o node
+
+npm install -g create-react-native-app
+
+create-react-native-app my-app
+
+cd my-app/
+
+npm start
+
+npm install -g exp
+
+npm i -g yarn 
+
+exp build:android
+
+https://exp-shell-app-assets.s
+3-us-west-1.amazonaws.com/android%2F%40carlosbarros%2Fmy-store-a2eb6175-62c8-11e
+8-9603-0a580a780605-signed.apk
+
+
+
